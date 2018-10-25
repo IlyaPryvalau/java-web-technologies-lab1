@@ -1,7 +1,6 @@
 package by.bsuir.privalov.task5.util;
 
 public class ThrowAwayFinder {
-
     public static int find(int arr[]){
         int maxSequenceCount = 0;
 
